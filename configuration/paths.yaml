@@ -1,0 +1,4 @@
+WORKING_DIR: './biocycle/'
+MODEL_DIR: './biocycle/models/'
+DATA_DIR: './biocycle/data/'
+CONFIG_DIR: './biocycle/configuration/'
