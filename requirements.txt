@@ -1,0 +1,6 @@
+torch~=1.13.0+cu116
+yaml~=0.2.5
+pyyaml~=6.0
+dataclasses~=0.8
+wandb~=0.13.7
+scikit-learn~=1.2.0
